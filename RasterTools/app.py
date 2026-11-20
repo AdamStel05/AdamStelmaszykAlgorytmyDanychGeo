@@ -2,6 +2,7 @@ from src.create_window import create_window
 from src.create_menu_option import create_menu_option
 from src.update_menu import update_menu
 from src.menu_operations.close_program import close_program
+from src.menu_operations.load_data import load_data_and_remember_outcome
 
 window, canvas = create_window()
 
